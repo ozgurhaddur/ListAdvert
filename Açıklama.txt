@@ -1,4 +1,4 @@
-Siteye erişimi sağlayan link olan BaseUrl=https://www.sahibinden.com/anasayfa-vitrin girildiğinde erişim hatası alınmaktadır. Diğer siteler denendiğinde bir sorun yaşanmamaktadır. 
+Siteye erişimi sağlayan link olan BaseUrl=https://www.sahibinden.com/anasayfa-vitrin girildiğinde erişim hatası alınmaktadır. Hatta alınan sayfa kodunun verileri incelenip .messagewrapper class'ının değerleri çekilip hata görseli öyle alınmıştır. Diğer siteler denendiğinde bir sorun yaşanmamaktadır. 
 Kodların açıklamaları yapılmış olup kaynak kod başarılı şekilde derlenebilmektedir.
 
 Alınan hata ile ilgili klasörde 2 görsel bulunmaktadır.
